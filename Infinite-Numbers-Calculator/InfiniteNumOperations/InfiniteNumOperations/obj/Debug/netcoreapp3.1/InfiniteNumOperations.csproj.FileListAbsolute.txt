@@ -1,0 +1,26 @@
+C:\Users\Asus\source\repos\InfiniteNumOperations\InfiniteNumOperations\obj\Debug\netcoreapp3.1\InfiniteNumOperations.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\InfiniteNumOperations\InfiniteNumOperations\obj\Debug\netcoreapp3.1\InfiniteNumOperations.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\InfiniteNumOperations\InfiniteNumOperations\obj\Debug\netcoreapp3.1\InfiniteNumOperations.AssemblyInfo.cs
+C:\Users\Asus\source\repos\InfiniteNumOperations\InfiniteNumOperations\obj\Debug\netcoreapp3.1\InfiniteNumOperations.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\InfiniteNumOperations\InfiniteNumOperations\bin\Debug\netcoreapp3.1\InfiniteNumOperations.exe
+C:\Users\Asus\source\repos\InfiniteNumOperations\InfiniteNumOperations\bin\Debug\netcoreapp3.1\InfiniteNumOperations.deps.json
+C:\Users\Asus\source\repos\InfiniteNumOperations\InfiniteNumOperations\bin\Debug\netcoreapp3.1\InfiniteNumOperations.runtimeconfig.json
+C:\Users\Asus\source\repos\InfiniteNumOperations\InfiniteNumOperations\bin\Debug\netcoreapp3.1\InfiniteNumOperations.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\InfiniteNumOperations\InfiniteNumOperations\bin\Debug\netcoreapp3.1\InfiniteNumOperations.dll
+C:\Users\Asus\source\repos\InfiniteNumOperations\InfiniteNumOperations\bin\Debug\netcoreapp3.1\InfiniteNumOperations.pdb
+C:\Users\Asus\source\repos\InfiniteNumOperations\InfiniteNumOperations\obj\Debug\netcoreapp3.1\InfiniteNumOperations.dll
+C:\Users\Asus\source\repos\InfiniteNumOperations\InfiniteNumOperations\obj\Debug\netcoreapp3.1\InfiniteNumOperations.pdb
+C:\Users\Asus\source\repos\InfiniteNumOperations\InfiniteNumOperations\obj\Debug\netcoreapp3.1\InfiniteNumOperations.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Compe 361\InfiniteNumOperations\InfiniteNumOperations\bin\Debug\netcoreapp3.1\InfiniteNumOperations.exe
+C:\Users\Asus\Desktop\Compe 361\InfiniteNumOperations\InfiniteNumOperations\bin\Debug\netcoreapp3.1\InfiniteNumOperations.deps.json
+C:\Users\Asus\Desktop\Compe 361\InfiniteNumOperations\InfiniteNumOperations\bin\Debug\netcoreapp3.1\InfiniteNumOperations.runtimeconfig.json
+C:\Users\Asus\Desktop\Compe 361\InfiniteNumOperations\InfiniteNumOperations\bin\Debug\netcoreapp3.1\InfiniteNumOperations.runtimeconfig.dev.json
+C:\Users\Asus\Desktop\Compe 361\InfiniteNumOperations\InfiniteNumOperations\bin\Debug\netcoreapp3.1\InfiniteNumOperations.dll
+C:\Users\Asus\Desktop\Compe 361\InfiniteNumOperations\InfiniteNumOperations\bin\Debug\netcoreapp3.1\InfiniteNumOperations.pdb
+C:\Users\Asus\Desktop\Compe 361\InfiniteNumOperations\InfiniteNumOperations\obj\Debug\netcoreapp3.1\InfiniteNumOperations.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Compe 361\InfiniteNumOperations\InfiniteNumOperations\obj\Debug\netcoreapp3.1\InfiniteNumOperations.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Compe 361\InfiniteNumOperations\InfiniteNumOperations\obj\Debug\netcoreapp3.1\InfiniteNumOperations.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Compe 361\InfiniteNumOperations\InfiniteNumOperations\obj\Debug\netcoreapp3.1\InfiniteNumOperations.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Compe 361\InfiniteNumOperations\InfiniteNumOperations\obj\Debug\netcoreapp3.1\InfiniteNumOperations.dll
+C:\Users\Asus\Desktop\Compe 361\InfiniteNumOperations\InfiniteNumOperations\obj\Debug\netcoreapp3.1\InfiniteNumOperations.pdb
+C:\Users\Asus\Desktop\Compe 361\InfiniteNumOperations\InfiniteNumOperations\obj\Debug\netcoreapp3.1\InfiniteNumOperations.genruntimeconfig.cache
